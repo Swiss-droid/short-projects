@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 
- float employeePensionFund = 0.075;   //7.5%
- float employerPensionFund = 0.13;
+ const float employeePensionFund = 0.075;   //7.5%
+ const float employerPensionFund = 0.13;
  float employeeContribution;
  int employeeSalary, employerSalary, employerContribution;
 
