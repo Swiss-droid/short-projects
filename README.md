@@ -1,2 +1,2 @@
 # short-projects
-A compilation of my short projects. If you think there's problems, feel free to advice me.
+A compilation of my short projects. If you think there are problems with the code, feel free to advice me.
